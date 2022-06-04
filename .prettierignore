@@ -1,0 +1,6 @@
+/.vscode
+/build
+/coverage
+/public
+package.json
+tsconfig.json
