@@ -2,5 +2,6 @@
 /build
 /coverage
 /public
+.eslintcache
 package.json
 tsconfig.json
